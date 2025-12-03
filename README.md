@@ -183,8 +183,8 @@ Access the deployed application: **[Plant Disease Detection on Hugging Face](htt
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/plant-disease-detection.git
-cd plant-disease-detection
+git clone https://github.com/Vidhi35/Smart-Pest-Disease-Detection-for-Crops.git
+cd Smart-Pest-Disease-Detection-for-Crops
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -539,3 +539,4 @@ This system provides **suggestions only**. Always consult with agricultural expe
 ⭐ Star this repository if you found it helpful!
 
 </div>
+
