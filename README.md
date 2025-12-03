@@ -11,7 +11,7 @@
 
 **Group 13 - AgriTech Innovators** 🌾
 
-[🚀 Live Demo on Hugging Face](https://huggingface.co/spaces/Vidhi/plant-disease-detection) | [📖 Documentation](#documentation) | [🤝 Team](#team-members)
+[🚀 Live Demo on Hugging Face](https://huggingface.co/spaces/Vidhi35/Smart-Pest-Disease-Detection-for-Crops) | [📖 Documentation](#documentation) | [🤝 Team](#team-members)
 
 </div>
 
@@ -82,7 +82,7 @@ The **Plant Disease Detection & Treatment System** is an intelligent application
 
 ### Live Application
 
-Access the deployed application: **[Plant Disease Detection on Hugging Face](https://huggingface.co/spaces/Vidhi/plant-disease-detection)**
+Access the deployed application: **[Plant Disease Detection on Hugging Face](https://huggingface.co/spaces/Vidhi35/Smart-Pest-Disease-Detection-for-Crops)**
 
 ### How It Works
 
@@ -322,7 +322,7 @@ The application will launch at: **http://localhost:7860**
 
 This project is deployed on **Hugging Face Spaces** under **Vidhi's account**.
 
-**Live URL**: [https://huggingface.co/spaces/Vidhi/plant-disease-detection](https://huggingface.co/spaces/Vidhi/plant-disease-detection)
+**Live URL**: [https://huggingface.co/spaces/Vidhi35/Smart-Pest-Disease-Detection-for-Crops](https://huggingface.co/spaces/Vidhi35/Smart-Pest-Disease-Detection-for-Crops)
 
 ### Deployment Steps (For Reference)
 
@@ -496,7 +496,7 @@ copies or substantial portions of the Software.
 ## 📞 Contact & Support
 
 - **Project Repository**: [GitHub Link]
-- **Live Demo**: [Hugging Face Spaces - Vidhi](https://huggingface.co/spaces/Vidhi/plant-disease-detection)
+- **Live Demo**: [Hugging Face Spaces - Vidhi](https://huggingface.co/spaces/Vidhi35/Smart-Pest-Disease-Detection-for-Crops)
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
 
@@ -539,4 +539,5 @@ This system provides **suggestions only**. Always consult with agricultural expe
 ⭐ Star this repository if you found it helpful!
 
 </div>
+
 
